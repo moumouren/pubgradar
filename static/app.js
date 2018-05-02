@@ -262,7 +262,7 @@ function getMapSource (mapType) {
 
 const view = new ol.View({
   center: [4096, 4096],
-  zoom: 5,
+  zoom: 4,
   minZoom: 1,
   maxZoom: 7,
   projection: projection
